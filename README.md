@@ -10,5 +10,6 @@
 # Website
 - https://saadahmedev.com/
 
-# ScreenShot
+# Screenshots
 <p align="center"><img src="screenshot/screenshot.png" alt="saadahmedscse" />
+<p align="center"><img src="screenshot/screenshot2.png" alt="saadahmedscse" />
